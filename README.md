@@ -1,6 +1,6 @@
-# athletic_sales_analysis
+# Athletic Sales Analysis
 ## 1. Combine and Clean the Data
-### Combined the sales data by rows for 2020 & 2021 which wioll be furher used for data processing
+# Combined the sales data by rows for 2020 & 2021 which wioll be furher used for data processing
 
 ## 2. Determine which Region Sold the Most Products by groupby and pivot_table
 
